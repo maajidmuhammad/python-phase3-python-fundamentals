@@ -1,10 +1,13 @@
 
 
 Python Coding Assessment
+
 Overview
+
 This project is a Python coding assessment designed to evaluate fundamental Python concepts. It includes various functions, classes, and modules demonstrating skills in data structures, functions, decorators, sequences, sets, dictionaries, and object-oriented programming.
 
 Project Structure
+
 The project is organized into the following files:
 
 functions.py: Contains implementations of various functions such as adding numbers, checking even numbers, reversing strings, counting vowels, calculating factorials, and applying decorators.
